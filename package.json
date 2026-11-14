@@ -1,0 +1,9 @@
+{
+  "name": "colherinha",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "check": "node --check app.js && node --check api/news.js"
+  }
+}
